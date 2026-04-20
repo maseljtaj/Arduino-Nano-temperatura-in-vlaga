@@ -14,7 +14,6 @@ Za bolj stabilne rezultate se uporablja povprečenje (smoothing).
 * DHT11 senzor
 * OLED SSD1306 (I2C)
 * povezovalne žice
-* (opcijsko) upor 10kΩ
 
 ---
 
