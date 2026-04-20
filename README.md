@@ -14,6 +14,7 @@ Za bolj stabilne rezultate se uporablja povprečenje (smoothing).
 * DHT11 senzor
 * OLED SSD1306 (I2C)
 * povezovalne žice
+* napajalni modul HW-131
 
 ---
 
