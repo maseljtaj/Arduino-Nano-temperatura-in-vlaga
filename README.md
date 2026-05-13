@@ -1,4 +1,4 @@
-# 🌡️ Arduino Nano – Merjenje temperature in vlage
+# 🌡️Merjenje temperature in vlage
 
 ## 📖 1. Opis delovanja
 
