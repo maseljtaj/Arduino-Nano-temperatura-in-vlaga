@@ -20,12 +20,13 @@ Za bolj stabilne rezultate se uporablja povprečenje (smoothing).
 
 ## 🔌 3. Vezava (shema)
 
-![Vezava](Slika-vezave.png)
+![Vezava](slika-vezave.png)
 
 ---
 
 ## 🧱 4. Načrt ohišja
-(dodaj sliko iz OneShape ali napiši: ni izdelano)
+![Ohišje](Ohisje_mre.png)
+![Pokrov](Pokrov_mre.png)
 
 ---
 
