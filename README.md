@@ -62,7 +62,6 @@ Senzor DHT22 ima:
 
 Meritve so bolj stabilne in natančne kot pri DHT11, lahko pa še vedno rahlo nihajo zaradi okolja.
 ---
-
 🔧 10. Izboljšave
 
 • dodajanje kalibracije  
