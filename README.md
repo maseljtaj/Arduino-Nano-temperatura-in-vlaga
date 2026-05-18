@@ -22,7 +22,7 @@ Za bolj stabilne rezultate se uporablja povprečenje meritev (smoothing).
 
 ## 🔌 3. Vezava (shema)
 
-![Vezava](slika-vezave.png)
+![Vezava](Slika-vezave.png)
 
 ---
 
