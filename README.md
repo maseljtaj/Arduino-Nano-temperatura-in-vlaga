@@ -2,7 +2,7 @@
 
 ## 📖 1. Opis delovanja
 
-Projekt meri temperaturo in relativno vlago z uporabo senzorja DHT11.
+Projekt meri temperaturo in relativno vlago z uporabo senzorja DHT22.
 Podatki se v realnem času prikazujejo na OLED zaslonu (SSD1306).
 Za bolj stabilne rezultate se uporablja povprečenje (smoothing).
 
@@ -53,21 +53,23 @@ code/temp_vlaga_oled_dht.ino
 (dodaj PDF datoteko v repo)
 
 ---
-## 📊 9. Natančnost in komentar
+📊 9. Natančnost in komentar
 
-Senzor DHT11 ima:
-* ±2°C natančnost temperature
-* ±5% natančnost vlage
+Senzor DHT22 ima:
 
-Meritve lahko rahlo nihajo zaradi okolja in lastnosti senzorja.
+• ±0.5°C natančnost temperature  
+• ±2% natančnost vlage  
+
+Meritve so bolj stabilne in natančne kot pri DHT11, lahko pa še vedno rahlo nihajo zaradi okolja.
 ---
 
-## 🔧 10. Izboljšave
+🔧 10. Izboljšave
 
-* uporaba bolj natančnega senzorja (DHT22 ali BME280)
-* dodajanje kalibracije
-* prikaz grafa meritev
-* shranjevanje podatkov
+• dodajanje kalibracije  
+• prikaz grafa meritev  
+• shranjevanje podatkov  
+• povezava z Wi-Fi ali Bluetooth  
+• spletni prikaz podatkov
 ---
 
 ## 🧠 Zaključek
