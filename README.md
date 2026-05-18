@@ -14,13 +14,13 @@ Za bolj stabilne rezultate se uporablja povprečenje (smoothing).
 * DHT22 senzor
 * OLED SSD1306 (I2C)
 * povezovalne žice
-* napajalni modul HW-131
+* 9V baterija
 
 ---
 
 ## 🔌 3. Vezava (shema)
 
-![Vezava](sika-vezave.png)
+![Vezava](Sika-vezave.png)
 
 ---
 
