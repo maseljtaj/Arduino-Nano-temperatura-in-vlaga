@@ -20,7 +20,7 @@ Za bolj stabilne rezultate se uporablja povprečenje (smoothing).
 
 ## 🔌 3. Vezava (shema)
 
-![Vezava](Sika-vezave.png)
+![Vezava](Slika-vezave.png)
 
 ---
 
