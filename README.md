@@ -12,7 +12,7 @@ Za bolj stabilne rezultate se uporablja povprečenje meritev (smoothing).
 
 ## ⚙️ 2. Kosovnica (BOM)
 
-- Arduino Uno
+- Arduino nano
 - DHT22 senzor
 - OLED SSD1306 (I2C)
 - povezovalne žice
