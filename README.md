@@ -53,9 +53,13 @@ code/temp_vlaga_oled_dht.ino
 
 ---
 
+
+
 ## 🎥 7. Video delovanja
 
-(dodaj YouTube povezavo)
+<video src="IMG_6271%20(1)%20(1).mp4" controls width="700"></video>
+
+---
 
 ---
 
