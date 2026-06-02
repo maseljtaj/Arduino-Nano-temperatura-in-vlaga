@@ -55,7 +55,6 @@ code/temp_vlaga_oled_dht.ino
 
 Video delovanja projekta:
 
-▶️ [Ogled videa](IMG_6271%20(1)%20(1).mp4)
 ---
 
 ## 📄 8. Poročilo (A-test)
