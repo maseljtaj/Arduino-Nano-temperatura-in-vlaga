@@ -16,7 +16,7 @@ Za bolj stabilne rezultate se uporablja povprečenje meritev (smoothing).
 - DHT22 senzor
 - OLED SSD1306 (I2C)
 - povezovalne žice
-- 9V baterija
+- 4x AA baterije
 
 ---
 
