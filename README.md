@@ -51,11 +51,11 @@ Koda se nahaja v:
 code/temp_vlaga_oled_dht.ino
 ```
 
----
-
 ## 🎥 7. Video delovanja
 
-[▶️ Ogled videa delovanja](TUKAJ_PRILEPI_RAW_URL)
+Video delovanja projekta:
+
+▶️ [Ogled videa](IMG_6271%20(1)%20(1).mp4)
 ---
 
 ## 📄 8. Poročilo (A-test)
