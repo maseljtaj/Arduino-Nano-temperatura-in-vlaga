@@ -67,10 +67,10 @@ Video delovanja projekta:
 
 Senzor DHT22 ima:
 
-- ±2.0 °C natančnost temperature
-- ±1 % natančnost vlage
+- ± 1.0 °C natančnost temperature
+- ± 5 % natančnost vlage
 
-Meritve so bolj stabilne in natančne kot pri senzorji DHT11, lahko pa še vedno rahlo nihajo zaradi okolja ali postavitve.
+Meritve so bolj stabilne in natančne kot pri senzorji DHT22, lahko pa še vedno rahlo nihajo zaradi okolja ali postavitve.
 
 ---
 
