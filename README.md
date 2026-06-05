@@ -58,11 +58,13 @@ Video delovanja projekta:
 ---
 
 ## 📄 8. Poročilo (A-test)
+Test vlage:
 ![test1](github_test_vlaga.jpg)
 
-![test2]()
 
-(dodaj PDF datoteko v GitHub repozitorij)
+Tesz temperature:
+![test2](github_test_temp..jpg)
+
 
 ---
 
