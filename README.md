@@ -62,7 +62,7 @@ Test vlage:
 ![test1](github_test_vlaga.jpg)
 
 
-Tesz temperature:
+Test temperature:
 ![test2](github_test_temp..jpg)
 
 
