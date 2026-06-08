@@ -10,17 +10,17 @@ Za bolj stabilne rezultate se uporablja povprečenje meritev (smoothing).
 
 ---
 ⚙️ 2. Kosovnica (BOM)
--Uporabila sva:
--Arduino Nano
--DHT22 senzor temperature in vlage
--OLED SSD1306 zaslon (I2C)
--povezovalne žice
--univerzalna perforirana ploščica (perfboard)
--stikalo ON/OFF
--držalo za 4x AA baterije
--4x AA baterije
--3D tiskano ohišje
--vijaki in matice M3
+uporabila sva:
+- Arduino Nano
+- DHT22 senzor temperature in vlage
+- OLED SSD1306 zaslon (I2C)
+- povezovalne žice
+- univerzalna perforirana ploščica (perfboard)
+- stikalo ON/OFF
+- držalo za 4x AA baterije
+- 4x AA baterije
+- 3D tiskano ohišje
+- vijaki in matice M3
 
 ---
 
