@@ -10,7 +10,7 @@ Za bolj stabilne rezultate se uporablja povprečenje meritev (smoothing).
 
 ---
 ## ⚙️ 2. Kosovnica (BOM)
-uporabila sva:
+Uporabila sva:
 - Arduino Nano
 - DHT22 senzor temperature in vlage
 - OLED SSD1306 zaslon (I2C)
