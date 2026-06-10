@@ -77,7 +77,8 @@ Test temperature:
 
 ---
 
-📊## 9. Natančnost in komentar
+ 
+## 9. Natančnost in komentar
 
 Senzor DHT22 ima:
 ± 1,0 °C natančnost temperature
@@ -98,7 +99,7 @@ Meritve so dovolj natančne za spremljanje temperature in vlage v prostoru, vend
 - spletni prikaz podatkov
 
 ---
-🧠## Zaključek
+## Zaključek
 # Težave in rešitve
 
 Med izdelavo merilnika temperature in vlage sva naletela na več težav. Največ težav je povzročalo napajanje naprave. Sprva sva uporabljala 9 V baterijo, vendar OLED zaslon ni deloval pravilno. Arduino Nano se je sicer vklopil, zaslon pa je ostal ugasnjen ali pa je deloval nezanesljivo. Po preverjanju vezave sva ugotovila, da 9 V baterija ni zagotavljala dovolj stabilnega napajanja za celoten sistem. Težavo sva rešila z uporabo držala za štiri AA baterije, ki je zagotavljalo bolj stabilno napetost.
