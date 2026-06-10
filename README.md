@@ -4,9 +4,9 @@
 
 ## 📖 1. Opis delovanja
 
-Projekt meri temperaturo in relativno vlago z uporabo senzorja DHT22.  
-Podatki se v realnem času prikazujejo na OLED zaslonu SSD1306.  
-Za bolj stabilne rezultate se uporablja povprečenje meritev (smoothing).
+Projekt meri temperaturo in relativno vlago zraka z uporabo senzorja DHT22. Izmerjene podatke Arduino Nano obdela in jih v realnem času prikazuje na OLED zaslonu SSD1306.
+
+Za bolj stabilne rezultate program uporablja povprečenje več meritev (smoothing), kar zmanjša manjša nihanja prikazanih vrednosti. Naprava je nameščena v 3D-tiskanem ohišju in se napaja s štirimi AA baterijami, zato je primerna za prenosno uporabo.
 
 ---
 ## ⚙️ 2. Kosovnica (BOM)
