@@ -40,7 +40,7 @@ uporabila sva:
 ![Pokrov](Pokrov_mre.png)
 
 
-### okvir:
+### Okvir:
 ![okvir](slika_okvira.png)
 
 ---
