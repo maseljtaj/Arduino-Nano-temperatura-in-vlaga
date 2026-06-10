@@ -32,16 +32,16 @@ uporabila sva:
 
 ## 🧱 4. Načrt ohišja
 
-### Ohišje
+### Ohišje:
 ![Ohišje](Ohisje_mre.png)
 
 
-### Pokrov
+### Pokrov:
 ![Pokrov](Pokrov_mre.png)
 
 
-### okvir
-![okvir](okvir_mre.png)
+### okvir:
+![okvir](slika_okvira.png)
 
 ---
 
