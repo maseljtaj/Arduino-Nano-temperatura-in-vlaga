@@ -120,16 +120,21 @@ Video delovanja projekta:
 
 ---
 
- 
-## 9. Natančnost in komentar
+## 📊 9. Natančnost in komentar
 
 Senzor DHT22 ima:
-± 1,0 °C natančnost temperature
-± 5 % natančnost relativne vlage
+
+* ± 1,0 °C natančnost temperature
+* ± 5 % natančnost relativne vlage
 
 Po vklopu naprave senzor potrebuje nekaj sekund za stabilizacijo meritev. V tem času se lahko prikazane vrednosti nekoliko razlikujejo od dejanskih. Ko se senzor stabilizira, prikazuje pravilne in zanesljive meritve.
 
-Meritve so dovolj natančne za spremljanje temperature in vlage v prostoru, vendar lahko zaradi sprememb okolja, gibanja zraka ali lastnosti senzorja rahlo nihajo.
+Pri meritvah je bilo opaziti manjša nihanja vrednosti, kar je običajno za tovrstne senzorje. Na rezultate lahko vplivajo spremembe temperature okolice, gibanje zraka, bližina virov toplote ter sama postavitev senzorja v ohišju.
+
+Za bolj stabilen prikaz podatkov se v programu uporablja povprečenje več zaporednih meritev (smoothing). Tako so prikazane vrednosti bolj mirne in lažje berljive.
+
+Meritve so dovolj natančne za spremljanje temperature in vlage v prostoru ter za izobraževalne in hobi projekte.
+
 
 ---
 
@@ -137,13 +142,14 @@ Meritve so dovolj natančne za spremljanje temperature in vlage v prostoru, vend
 
 - dodajanje kalibracije
 - prikaz grafa meritev
-- shranjevanje podatkov
-- povezava z Wi-Fi ali Bluetooth
+- shranjevanje podatkov (EEPROM)
+- povezava z Wi-Fi ali Bluetooth (ESP)
 - spletni prikaz podatkov
 
 ---
-## Zaključek
-# Težave in rešitve
+## 🧠 Zaključek
+
+### Težave in rešitve
 
 Med izdelavo merilnika temperature in vlage sva naletela na več težav. Največ težav je povzročalo napajanje naprave. Sprva sva uporabljala 9 V baterijo, vendar OLED zaslon ni deloval pravilno. Arduino Nano se je sicer vklopil, zaslon pa je ostal ugasnjen ali pa je deloval nezanesljivo. Po preverjanju vezave sva ugotovila, da 9 V baterija ni zagotavljala dovolj stabilnega napajanja za celoten sistem. Težavo sva rešila z uporabo držala za štiri AA baterije, ki je zagotavljalo bolj stabilno napetost.
 
@@ -157,4 +163,10 @@ Po vklopu naprave je bilo potrebno počakati nekaj sekund, da se je senzor stabi
 
 Veliko časa sva namenila tudi izdelavi in prilagajanju 3D-tiskanega ohišja. Potrebno je bilo večkrat prilagoditi dimenzije odprtin za zaslon, senzor, stikalo in baterijsko držalo, da so se vsi deli pravilno prilegali.
 
-Kljub težavam sva napravo uspešno dokončala. Projekt nama je omogočil pridobitev novih znanj s področja programiranja Arduino naprav, povezovanja elektronskih komponent, odpravljanja napak ter 3D-modeliranja in 3D-tiskanja. Končni izdelek zanesljivo meri temperaturo in relativno vlago ter rezultate prikazuje na OLED zaslonu v realnem času.
+### Končni komentar
+
+Projekt sva uspešno dokončala in dosegla zastavljene cilje. Izdelana naprava zanesljivo meri temperaturo in relativno vlago ter rezultate v realnem času prikazuje na OLED zaslonu.
+
+Med izdelavo sva pridobila veliko praktičnega znanja s področja programiranja mikrokontrolerjev Arduino, povezovanja elektronskih komponent, odpravljanja napak, načrtovanja vezij ter 3D-modeliranja in 3D-tiskanja. Projekt nama je pokazal, kako pomembna sta pravilno načrtovanje napajanja in natančno preverjanje povezav med komponentami.
+
+Končni izdelek deluje zanesljivo, je enostaven za uporabo in predstavlja dobro osnovo za nadaljnje nadgradnje, kot so brezžični prenos podatkov, shranjevanje meritev ali spletni prikaz rezultatov.
