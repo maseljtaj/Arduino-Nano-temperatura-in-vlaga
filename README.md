@@ -35,8 +35,13 @@ uporabila sva:
 ### Ohišje
 ![Ohišje](Ohisje_mre.png)
 
+
 ### Pokrov
 ![Pokrov](Pokrov_mre.png)
+
+
+### okvir
+![okvir](okvir_mre.png)
 
 ---
 
