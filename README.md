@@ -67,7 +67,7 @@ Video delovanja projekta:
 ---
 
 ## 📄 8. Poročilo (A-test)
-Test vlage:
+## Test vlage:
 ![test1](github_test_vlaga.jpg)
 
 ## Rezultati umerjanja
@@ -92,8 +92,30 @@ Test vlage:
 | Deklarirana meja napake | ±5 % |
 | Ocena instrumenta | Instrument je zanesljiv znotraj deklarirane meje napake. |
 
-Test temperature:
+## Test temperature:
 ![test2](github_test_temp..jpg)
+
+## Rezultati umerjanja temperature
+
+| Meritev | Mx [°C] | mx [%] |
+|----------|----------|---------|
+| 1 | 0.4 | 1.50 |
+| 2 | 0.2 | 0.74 |
+| 3 | 0.2 | 0.74 |
+| 4 | 0.2 | 0.75 |
+| 5 | 0.1 | 0.43 |
+| 6 | 0.1 | 0.43 |
+| 7 | 0.2 | 4.00 |
+| 8 | 0.1 | 1.85 |
+| 9 | 0.2 | 0.63 |
+| 10 | 0.3 | 0.67 |
+
+| Parameter | Vrednost |
+|------------|----------|
+| Največja meja napake Mx | 0.4 °C |
+| Največja relativna meja napake mx | 4.00 % |
+| Deklarirana meja napake | ±1.0 °C |
+| Ocena instrumenta | Instrument je zanesljiv znotraj deklarirane meje napake. |
 
 
 ---
