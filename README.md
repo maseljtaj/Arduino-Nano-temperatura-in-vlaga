@@ -9,7 +9,7 @@ Podatki se v realnem času prikazujejo na OLED zaslonu SSD1306.
 Za bolj stabilne rezultate se uporablja povprečenje meritev (smoothing).
 
 ---
-⚙️ 2. Kosovnica (BOM)
+## ⚙️ 2. Kosovnica (BOM)
 uporabila sva:
 - Arduino Nano
 - DHT22 senzor temperature in vlage
