@@ -70,6 +70,27 @@ Video delovanja projekta:
 Test vlage:
 ![test1](github_test_vlaga.jpg)
 
+## Rezultati umerjanja
+
+| Meritev | Mx [%] | mx [%] |
+|----------|---------|---------|
+| 1 | 1 | 1.82 |
+| 2 | 0 | 0.00 |
+| 3 | 1 | 1.79 |
+| 4 | 2 | 2.04 |
+| 5 | 1 | 2.08 |
+| 6 | 1 | 2.13 |
+| 7 | 1 | 1.32 |
+| 8 | 0 | 0.00 |
+| 9 | 1 | 2.56 |
+| 10 | 0 | 0.00 |
+
+| Parameter | Vrednost |
+|------------|----------|
+| Največja meja napake Mx | 2 % |
+| Največja relativna meja napake mx | 2.56 % |
+| Deklarirana meja napake | ±5 % |
+| Ocena instrumenta | Instrument je zanesljiv znotraj deklarirane meje napake. |
 
 Test temperature:
 ![test2](github_test_temp..jpg)
