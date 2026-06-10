@@ -71,7 +71,7 @@ Video delovanja projekta:
 ## Test vlage:
 ![test1](github_test_vlaga.jpg)
 
-## Rezultati umerjanja vlage
+## Rezultati merjenja vlage:
 
 | Meritev | Mx [%] | mx [%] |
 |----------|---------|---------|
@@ -96,7 +96,7 @@ Video delovanja projekta:
 ## Test temperature:
 ![test2](github_test_temp..jpg)
 
-## Rezultati umerjanja temperature
+## Rezultati merjenja temperature:
 
 | Meritev | Mx [°C] | mx [%] |
 |----------|----------|---------|
