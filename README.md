@@ -62,7 +62,10 @@ code/temp_vlaga_oled_dht.ino
 
 ## 🎥 7. Video delovanja
 
-Video delovanja projekta:
+## Demonstracija delovanja
+
+[▶️ Oglej si video](https://youtube.com/shorts/de9zcf_SV1c)
+
 
 ---
 
